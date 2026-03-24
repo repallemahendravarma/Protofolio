@@ -45,11 +45,19 @@ className="flex items-center gap-2 bg-white text-black px-6 py-2 rounded-lg"
 <motion.a
 whileHover={{scale:1.1}}
 href="https://www.linkedin.com/in/repallemahendravarma77/"
-className="flex items-center gap-2 border px-6 py-2 rounded-lg"
+className="flex items-center gap-2 border bg-white text-black px-6 py-2 rounded-lg"
 >
 
 <FaLinkedin/> LinkedIn
 
+</motion.a>
+<motion.a
+whileHover={{scale:1.1}}
+href="/resume.pdf"
+target="_blank"
+className="flex items-center gap-2 border px-6 py-2 rounded-lg bg-white text-black"
+>
+View CV
 </motion.a>
 
 </div>

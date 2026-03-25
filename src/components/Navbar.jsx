@@ -9,7 +9,7 @@ return (
 <div className="max-w-6xl mx-auto flex justify-between items-center p-4">
 
 <h1 className="font-bold text-xl">
-Mahendra
+
 </h1>
 
 <ul className="flex items-center gap-6 text-sm">
